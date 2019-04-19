@@ -1,0 +1,12 @@
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\bin\Debug\Download Manger.exe.config
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\bin\Debug\Download Manger.exe
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\bin\Debug\Download Manger.pdb
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download Manger.csprojResolveAssemblyReference.cache
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download_Manger.Properties.Resources.resources
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download Manger.csproj.GenerateResource.Cache
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download Manger.exe
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download Manger.pdb
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download_Manger.frmAddUrl.resources
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download_Manger.frmDownload.resources
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download_Manger.frmMain.resources
+c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download_Manger.frmSetting.resources
