@@ -10,3 +10,6 @@ c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Down
 c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download_Manger.frmDownload.resources
 c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download_Manger.frmMain.resources
 c:\users\pc_internet1\documents\visual studio 2015\Projects\Download Manger\Download Manger\obj\Debug\Download_Manger.frmSetting.resources
+C:\Users\PC_Internet_1\Desktop\DownloadManager\Download Manger\bin\Debug\Download Manger.exe.config
+C:\Users\PC_Internet_1\Desktop\DownloadManager\Download Manger\obj\Debug\Download Manger.exe
+C:\Users\PC_Internet_1\Desktop\DownloadManager\Download Manger\obj\Debug\Download Manger.pdb
